@@ -5,5 +5,3 @@ GPUtil
 opencv-python
 lpips
 trimesh
-torch
-torchvision
